@@ -2,7 +2,7 @@
 
 ## 🎯 Sobre 
 
-Este repositório possui imagens referentes ao TCC estudo de caso aplicado em uma organização de TI de médio porte em Vitória da Conquista - BA, focando na implementação de boas práticas de gerenciamento de ativos baseadas no framework ITIL 4. O trabalho aborda desde a análise inicial até a validação dos processos implementados, com ênfase na melhoria da eficiência operacional e na otimização do ciclo de vida dos ativos de TI.
+Este repositório possui imagens referentes ao TCC estudo de caso aplicado em uma organização de TI de médio porte em cidade XXXX, focando na implementação de boas práticas de gerenciamento de ativos baseadas no framework ITIL 4. O trabalho aborda desde a análise inicial até a validação dos processos implementados, com ênfase na melhoria da eficiência operacional e na otimização do ciclo de vida dos ativos de TI.
 
 ## 📂 Estrutura do Repositório:
 
